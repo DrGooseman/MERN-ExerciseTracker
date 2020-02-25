@@ -59,7 +59,7 @@ export default function CreateExercise() {
 
   return (
     <div>
-      <h3>CreateExercise</h3>
+      <h3>Create Exercise Log</h3>
       <form onSubmit={onSubmit}>
         <div className="form-group">
           <label>Username: </label>
